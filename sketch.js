@@ -1,7 +1,7 @@
 let skulls = [];
 
 function setup() {
-  createCanvas(2000, 800);
+  createCanvas(windowWidth, windowHeight);
   background(0, 0, 255);
   textAlign(CENTER);
   textStyle(BOLD);
